@@ -1,0 +1,14 @@
+# Dados Brutos e Processados (Não subir para o GitHub)
+data/
+data_bruta/
+data_otimizada/
+*.rar
+*.zip
+
+# Ambientes Virtuais e Dependências
+venv/
+.env
+__pycache__/
+
+# Checkpoints e arquivos temporários do Jupyter
+.ipynb_checkpoints/
